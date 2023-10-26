@@ -1,0 +1,29 @@
+.navBarcss{
+    background-color:dodgerblue;
+   border-style: solid;
+    text-align: center;
+    padding: 40px;
+}
+
+.bg{
+    background-image: url(../assets/v8to4663s3aa1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+}
+
+.bg1{
+    background-color: dimgray;
+}
+
+.bg2{
+    background-image: url(../assets/The_Cooper_Gang5.JPG.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+}
+
+p{
+    color: deeppink;
+    background-color: darkgreen;
+}
